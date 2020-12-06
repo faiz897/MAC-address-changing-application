@@ -1,4 +1,4 @@
-# MAC-address-changing-application
+# MAC address changing application
 
 This script is generate for changing the MAC address of the system temporary.
 This application you can easily change the MAC randomly or manually.
