@@ -13,7 +13,7 @@ This application you can easily change the MAC randomly or manually.
 <h1>simple and easy Usage</h1>
 <ul>
   <li>Open Python terminal</li>
-  <li>Run the script</li>
+  <li>Run the script named Main.py</li>
   <li>Now set your MAC address</li>
 </ul>
 <hr>
